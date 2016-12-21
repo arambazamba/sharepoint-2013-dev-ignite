@@ -1,0 +1,18 @@
+D:\Andritz\ServiceTester\bin\Debug\ServiceTester.exe.config
+D:\Andritz\ServiceTester\bin\Debug\ServiceTester.exe
+D:\Andritz\ServiceTester\bin\Debug\ServiceTester.pdb
+D:\Andritz\ServiceTester\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Andritz\ServiceTester\obj\x86\Debug\ServiceTester.exe
+D:\Andritz\ServiceTester\obj\x86\Debug\ServiceTester.pdb
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceTester\bin\Debug\ServiceTester.exe.config
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceTester\obj\x86\Debug\ServiceTester.exe
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceTester\obj\x86\Debug\ServiceTester.pdb
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceTester\bin\Debug\ServiceTester.exe
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceTester\bin\Debug\ServiceTester.pdb
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceTester\obj\x86\Debug\ServiceTester.ServiceForm.resources
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceTester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceTester\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SharePoint 2010 Dev MOC\Demos\CustomWCFService\ServiceTester\bin\Debug\ServiceTester.exe.config
+D:\SharePoint 2010 Dev MOC\Demos\CustomWCFService\ServiceTester\obj\x86\Debug\ServiceTester.exe
+D:\SharePoint 2010 Dev MOC\Demos\CustomWCFService\ServiceTester\obj\x86\Debug\ServiceTester.pdb

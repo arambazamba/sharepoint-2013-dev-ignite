@@ -1,0 +1,4 @@
+D:\ApplicationPagePattern\ApplicationPagePattern\bin\Debug\ApplicationPagePattern.dll
+D:\ApplicationPagePattern\ApplicationPagePattern\bin\Debug\ApplicationPagePattern.pdb
+D:\ApplicationPagePattern\ApplicationPagePattern\obj\Debug\ApplicationPagePattern.dll
+D:\ApplicationPagePattern\ApplicationPagePattern\obj\Debug\ApplicationPagePattern.pdb

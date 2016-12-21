@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="Integrations.PersistValuesMenuEntry"
+     Title="Persisting Values Demo"
+     ImageUrl="/_layouts/images/actionssettings.gif"
+     GroupId="SiteActions"
+     Location="Microsoft.SharePoint.StandardMenu"
+     Sequence="1001"
+     Rights="DeleteListItems"
+     Description="User SharePoint Notifications">
+    <UrlAction Url="~site/_layouts/15/PersistingValues/ValuesPage.aspx"/>
+  </CustomAction>
+  <CustomActionGroup
+   Id="Integrations.DocumentLibraryExtensions"
+   Location="Microsoft.SharePoint.SiteSettings"
+   Title="Document Library Extensions"
+   Sequence="100"
+   ImageUrl="/_layouts/images/demo.png"
+   Description="Settings for Document Library Extensions"/>
+  <CustomAction
+		Id="Integrations.CreatorOwnerSettings"
+		GroupId="Integrations.DocumentLibraryExtensions"
+		Location="Microsoft.SharePoint.SiteSettings"
+		Sequence="10"
+		Title="Enable Creator-Owner-Permissions" >
+    <UrlAction Url="~site/_layouts/15/PersistingValues/ValuesPage.aspx" />
+  </CustomAction>
+  <CustomAction
+		Id="Integrations.UploadRestrictionsFileTypes"
+		GroupId="GeneralSettings"
+		Location="Microsoft.SharePoint.ListEdit"
+		Sequence="10"
+		Title="Allowed File Types" >
+    <UrlAction Url="~site/_layouts/15/PersistingValues/ValuesPage.aspx?ListId={ListId}" />
+  </CustomAction>
+</Elements>

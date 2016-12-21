@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="DAAA06FE-2B4C-4537-B98A-3E82300B60F4" ModuleId="AndritzSiteProvisioning" />
+  <Module PersistentId="D29BA7E7-3B74-4DB6-9F64-87747BD2DD48" ModuleId="SiteProvisioningShared" />
+  <Module PersistentId="2CB9406D-4D0A-482E-B14D-607C81975ACF" ModuleId="ServiceDevConsole" />
+</Modules>

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="2CB9406D-4D0A-482E-B14D-607C81975ACF" ModuleId="CreateSiteConsole" />
+  <Module PersistentId="D29BA7E7-3B74-4DB6-9F64-87747BD2DD48" ModuleId="SiteProvisioningShared" />
+</Modules>

@@ -1,0 +1,16 @@
+D:\Andritz\ServiceDevConsole\obj\Debug\CreateSiteConsole.exe
+D:\Andritz\ServiceDevConsole\obj\Debug\CreateSiteConsole.pdb
+D:\Andritz\ServiceDevConsole\bin\Debug\CreateSiteConsole.exe
+D:\Andritz\ServiceDevConsole\bin\Debug\CreateSiteConsole.pdb
+D:\Andritz\ServiceDevConsole\bin\Debug\SiteProvisioningShared.dll
+D:\Andritz\ServiceDevConsole\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\Andritz\ServiceDevConsole\bin\Debug\SiteProvisioningShared.pdb
+D:\Andritz\ServiceDevConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceDevConsole\bin\Debug\CreateSiteConsole.exe
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceDevConsole\bin\Debug\CreateSiteConsole.pdb
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceDevConsole\bin\Debug\SiteProvisioningShared.dll
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceDevConsole\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceDevConsole\bin\Debug\SiteProvisioningShared.pdb
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceDevConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceDevConsole\obj\Debug\CreateSiteConsole.exe
+C:\DEV\Andritz Site Provisioning Webservice\Andritz\ServiceDevConsole\obj\Debug\CreateSiteConsole.pdb

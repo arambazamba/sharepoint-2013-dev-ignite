@@ -1,0 +1,4 @@
+D:\Dev\02 Server Object Model Basics\PersistingValues\PersistingValues\bin\Debug\PersistingValues.dll
+D:\Dev\02 Server Object Model Basics\PersistingValues\PersistingValues\bin\Debug\PersistingValues.pdb
+D:\Dev\02 Server Object Model Basics\PersistingValues\PersistingValues\obj\Debug\PersistingValues.dll
+D:\Dev\02 Server Object Model Basics\PersistingValues\PersistingValues\obj\Debug\PersistingValues.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="24c98e00-7499-427d-915e-7468b139b68d" solutionId="24c98e00-7499-427d-915e-7468b139b68d" resetWebServer="false" name="AndritzSiteProvisioning" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="Microsoft.Sharepoint.Sandbox.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="bin\Debug\Microsoft.Sharepoint.Sandbox.dll" />
+  </assemblies>
+  <projectItems>
+    <projectItemReference itemId="8fd64ca4-cf5f-438e-a6e5-dd7bae2841ce" />
+  </projectItems>
+</package>

@@ -1,0 +1,8 @@
+D:\Andritz\CreateSiteConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\Andritz\CreateSiteConsole\bin\Debug\CreateSiteConsole.exe
+D:\Andritz\CreateSiteConsole\bin\Debug\CreateSiteConsole.pdb
+D:\Andritz\CreateSiteConsole\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\Andritz\CreateSiteConsole\obj\Debug\CreateSiteConsole.exe
+D:\Andritz\CreateSiteConsole\obj\Debug\CreateSiteConsole.pdb
+D:\Andritz\CreateSiteConsole\bin\Debug\SiteProvisioningShared.dll
+D:\Andritz\CreateSiteConsole\bin\Debug\SiteProvisioningShared.pdb

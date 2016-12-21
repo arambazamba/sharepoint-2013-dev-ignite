@@ -1,0 +1,5 @@
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\bin\CustomXmlTimesheetWeb.dll
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\bin\CustomXmlTimesheetWeb.pdb
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\obj\Debug\CustomXmlTimesheetWeb.dll
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\obj\Debug\CustomXmlTimesheetWeb.pdb
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\obj\Debug\CustomXmlTimesheetWeb.csprojResolveAssemblyReference.cache

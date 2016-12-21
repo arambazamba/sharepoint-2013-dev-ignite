@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="24c98e00-7499-427d-915e-7468b139b68d" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SiteProvisioningShared.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="AndritzSiteProvisioning.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <RootFiles>
+    <RootFile Location="ISAPI\SiteProvisioningService.svc" />
+  </RootFiles>
+</Solution>
